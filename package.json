@@ -1,11 +1,30 @@
 {
   "name": "simple-drag-and-drop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple drag and drop library for javascript, react, angular, vuejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bitto Kazi",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bittokazi/simple-js-drag-and-drop.git"
+  },
+  "keywords": [
+    "javascript-drag-drop",
+    "javascript-drag-and-drop",
+    "drag-and-drop",
+    "drag-drop",
+    "react-drag-drop",
+    "react-drag-and-drop",
+    "vuejs-drag-and-drop",
+    "angular-drag-and-drop",
+    "angularjs-drag-drop"
+  ],
+  "bugs": {
+    "url": "https://github.com/bittokazi/simple-js-drag-and-drop/issues"
+  },
+  "homepage": "https://github.com/bittokazi/simple-js-drag-and-drop#readme"
 }
