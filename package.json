@@ -1,6 +1,6 @@
 {
   "name": "simple-drag-and-drop",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple drag and drop library for javascript, react, angular, vuejs",
   "main": "index.js",
   "scripts": {
