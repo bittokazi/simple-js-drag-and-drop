@@ -8,8 +8,7 @@ npm install simple-drag-and-drop --save
 
 ## Example
 
-Inline-style:
-![alt text](https://github.com/bittokazi/simple-js-drag-and-drop/example.gif "Gif")
+![](example.gif)
 
 ## Usage
 
