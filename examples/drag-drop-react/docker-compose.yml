@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  simple-drag-drop-react-example:
+    image: simple-drag-drop-react-example
+    restart: always
+    network_mode: bridge
+    env_file: .env
+    ports:
+      - "5501:5501"
