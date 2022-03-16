@@ -1,4 +1,4 @@
-FROM node:12:22
+FROM node:12-bullseye
 WORKDIR /app
 COPY ./ ./
 RUN npm cache clean --force
