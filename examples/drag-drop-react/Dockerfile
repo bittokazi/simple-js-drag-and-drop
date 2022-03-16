@@ -1,7 +1,7 @@
 FROM node:12
-WORKDIR /usr/src/app
+WORKDIR /app
 COPY ./ ./
-RUN npm install
+RUN npm cache clean --force
 RUN npm run build
 COPY . .
 EXPOSE 5501
