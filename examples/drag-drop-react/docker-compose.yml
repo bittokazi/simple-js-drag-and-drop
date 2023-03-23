@@ -4,7 +4,7 @@ services:
   simple-drag-drop-react-example:
     container_name: simple-drag-drop-react-example
     build:
-      context: /
+      context: ./
       dockerfile: Dockerfile
     image: simple-drag-drop-react-example
     restart: always
